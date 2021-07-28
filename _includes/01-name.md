@@ -1,2 +1,2 @@
- # Aravinth S Kumar
+ # Aravinth s kumar
  ## Portfolio
