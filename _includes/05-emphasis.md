@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I'm Aravinth S Kumar*
+_This is my portfolio_
+
+**I'm Aravinth S Kumar**
+__This is my Portfolio__
+
+_Hii **awesome** people there_
